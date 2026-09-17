@@ -1,1 +1,23 @@
-# Chicken-roster
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Judul web yang meyakinkan -->
+    <title>Materi Rekayasa Sistem Komputer - Bab 3</title>
+    
+    <script>
+        // Skrip ini yang bertugas langsung memindahkan halaman ke link YouTube
+        window.onload = function() {
+            window.location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
+        };
+    </script>
+</head>
+<body style="background-color: #f4f4f4; text-align: center; font-family: Arial, sans-serif; padding-top: 50px;">
+    
+    <!-- Teks pancingan yang muncul sekilas sebelum redirect terjadi -->
+    <h2>Sedang memuat dokumen...</h2>
+    <p>Harap tunggu sebentar, file sedang diunduh dari server.</p>
+
+</body>
+</html>
